@@ -1,2 +1,23 @@
 # prework-study-guide-
-A study guide for course pre-work
+A study guide for course pre-wor# Prework Study Guide Webpage
+
+## Description
+
+This Prework Study Guide was created for my boot camp introduction to HTML, CSS, Git and JavaScript.  It also contains notes on HTML, CSS, Git and JavaScript.
+
+## Installation
+
+N/A
+
+## Usage
+
+I am learning how to code and this Prework Study Guide is helping me understand how to code.  
+This has a bit about HTML, CSS, Git and JavaScript and some of the function. 
+
+## Credits
+
+N/a
+
+## License
+
+Please refer to the LICENCE in the repo
